@@ -5,7 +5,7 @@
 ## Administration
 
 * [Group Management](administration/group-management.md)
-* [Content Management](administration/content-management.md)
+* [Content Management](administration/threat-intel-management.md)
 
 ## Developers
 
