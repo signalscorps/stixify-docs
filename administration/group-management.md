@@ -21,9 +21,9 @@ A Group Admins can:
 * edit user permissions for member of the Group
   * see User Permissions section below
 
-![Stixify Group management](../.gitbook/assets/stixify-group-management.png)
+![Stixify Group management](<../.gitbook/assets/stixify-group-management (1).png>)
 
-Use the Group Management page for this: [https://app.stixify.com/user/manage\_group](https://app.stixify.com/user/manage_group)
+Use the Group Management page for this: [https://app.stixify.com/user/manage\_group](https://app.stixify.com/user/manage\_group)
 
 ### Group Plans
 
@@ -37,17 +37,17 @@ You can see a current list of plans and their restrictions here: [https://www.st
 
 There are two user permissions available, read and read/write. You can see what functions are available for each permission type below:
 
-| Function | Read | Read/write |
-| :--- | :--- | :--- |
-| View collection | TRUE | TRUE |
-| Add/edit collection | TRUE | FALSE |
-| View report | TRUE | TRUE |
-| Add/edit report | TRUE | FALSE |
-| View extractions \(all types\) | TRUE | TRUE |
-| Add/edit extractions \(all types\) | TRUE | FALSE |
-| View alerts | TRUE | TRUE |
-| Add/edit alerts | TRUE | FALSE |
-| Generate API key \(if supported in plan\) | TRUE | TRUE |
+| Function                                | Read | Read/write |
+| --------------------------------------- | ---- | ---------- |
+| View collection                         | TRUE | TRUE       |
+| Add/edit collection                     | TRUE | FALSE      |
+| View report                             | TRUE | TRUE       |
+| Add/edit report                         | TRUE | FALSE      |
+| View extractions (all types)            | TRUE | TRUE       |
+| Add/edit extractions (all types)        | TRUE | FALSE      |
+| View alerts                             | TRUE | TRUE       |
+| Add/edit alerts                         | TRUE | FALSE      |
+| Generate API key (if supported in plan) | TRUE | TRUE       |
 
 ### User Security
 
@@ -57,7 +57,7 @@ Two-factor authentication to all users. It is strongly recommended that all user
 A 10% discount will be applied on Group Plans where all members have two-factor authentication enabled.
 {% endhint %}
 
-Group admins can view which of their Group Members have two-factor authentication enabled on the Group Management page: [https://app.stixify.com/user/manage\_group](https://app.stixify.com/user/manage_group)
+Group admins can view which of their Group Members have two-factor authentication enabled on the Group Management page: [https://app.stixify.com/user/manage\_group](https://app.stixify.com/user/manage\_group)
 
 ### Delete user
 
@@ -65,5 +65,4 @@ A user or group admin can delete a members account.
 
 A user can do this on the "My Profile" page. Group admins can do this from the "Group Management" page.
 
-Deleting an account will delete that Members personal information \(inc. API keys\) but any content created by the Member \(e.g. Reports, Collections, Alerts and extractions\) will remain available to the Group
-
+Deleting an account will delete that Members personal information (inc. API keys) but any content created by the Member (e.g. Reports, Collections, Alerts and extractions) will remain available to the Group
