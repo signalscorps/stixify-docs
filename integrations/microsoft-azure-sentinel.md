@@ -1,3 +1,9 @@
+---
+description: >-
+  Ingest threat intelligence from Stixify into Microsoft Azure Sentinel for log
+  matching.
+---
+
 # Microsoft Azure Sentinel
 
 ### Prerequisites
