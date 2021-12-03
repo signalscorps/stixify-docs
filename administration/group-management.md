@@ -10,16 +10,14 @@ description: Learn more about managing Stixify Groups and Users.
 
 Each user belongs to a Group. A user can only belong to one group.
 
-Each Group has one Group Admin. By default this is the creator of the Group, however, ownership can be reassigned to any active Member of the Group.
+Each Group has one Group Admin. By default this is the creator of the Group, however, ownership can be reassigned to any active Member of the Group.\\
 
-A Group Admins can:
-
-* invite new Members to the Group
-  * user invited can choose to accept or reject invite
-* delete existing Members from the Group
-  * see Delete User below
-* edit user permissions for member of the Group
-  * see User Permissions section below
+| Function                               | Admin | Member |
+| -------------------------------------- | ----- | ------ |
+| Invite new members to Group            | TRUE  | FALSE  |
+| Delete existing Members from the Group | TRUE  | FALSE  |
+| Edit Members Permissions in the Group  | TRUE  | FALSE  |
+| View all Members in Groups             | TRUE  | TRUE   |
 
 ![Stixify Group management](<../.gitbook/assets/stixify-group-management (1).png>)
 
