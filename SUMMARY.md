@@ -14,3 +14,4 @@
 ## Integrations
 
 * [Browser Extension](integrations/browser-extension.md)
+* [Microsoft Azure Sentinel](integrations/microsoft-azure-sentinel.md)

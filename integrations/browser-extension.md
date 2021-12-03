@@ -6,6 +6,12 @@ description: >-
 
 # Browser Extension
 
+### Prerequisites
+
+[An Stixify plan that supports use of our API.](https://www.stixify.com/pricing/)
+
+### Setup
+
 Download now for:
 
 * [Chrome](https://chrome.google.com/webstore/detail/stixify/cdekbffimfclinbkhakcjhmibiafgbjb)
