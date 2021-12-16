@@ -14,4 +14,5 @@
 ## Integrations
 
 * [Browser Extension](integrations/browser-extension.md)
+* [EclecticIQ Intelligence Center](integrations/eclecticiq-intelligence-center.md)
 * [Microsoft Azure Sentinel](integrations/microsoft-azure-sentinel.md)
